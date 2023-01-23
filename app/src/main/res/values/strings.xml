@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MySuitGame</string>
+    <string name="suit_game">Suit Game</string>
+    <string name="pemain_1">Pemain 1</string>
+    <string name="com">COM</string>
+    <string name="batu">Batu</string>
+    <string name="gunting">Gunting</string>
+    <string name="vs">VS</string>
+    <string name="kertas">Kertas</string>
+</resources>
